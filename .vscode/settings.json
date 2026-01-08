@@ -1,0 +1,15 @@
+{
+    "python.languageServer": "None",
+    "python-envs.pythonProjects": [
+        {
+            "path": "apps/example-py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "python.testing.pytestArgs": [
+        "apps"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
